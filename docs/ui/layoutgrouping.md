@@ -1,6 +1,6 @@
 By nesting elements within layouts/groupings, you are able to easily group elements together in-game. It allows for adjusting/moving them together, uniform padding and additional visual flair possibilities.
 
-Each layout element has its own attributes specific to its type. Additionally, elements within a layout are subject to common [common layout element attributes](attributes#layout-element-attributes).
+Each layout element has its own attributes specific to its type. Additionally, elements within a layout are subject to [common layout element attributes](attributes#layout-element-attributes).
 
 ##Element Summary
 
